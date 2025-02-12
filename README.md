@@ -3,6 +3,8 @@
 ## Overview
 Ephor is a clipboard security agent for macOS that helps prevent accidental credential leaks by monitoring paste events. Designed for security-conscious users and developers, it integrates seamlessly with your workflow to detect sensitive data and alert you before it is pasted into a browser.
 
+![alt text](image.png)
+
 ## Table of Contents
 
 - [Features](#features)
