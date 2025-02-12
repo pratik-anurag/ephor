@@ -11,3 +11,6 @@ venv/
 
 # build
 build/
+
+#rules
+rules/
