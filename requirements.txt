@@ -1,0 +1,4 @@
+pyperclip
+pyobjc
+pyyaml
+pyinstaller

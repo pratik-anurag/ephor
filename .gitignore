@@ -1,0 +1,13 @@
+# Python files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Virtual environments
+venv/
+.env
+
+# build
+build/
